@@ -20,7 +20,7 @@ array = np.array([[1,2,3,4],
 
 
 #prints the last one, if i were to print -2 it would send the second to last and so on.
-#print(array[-2])
+print(array[-2])
 
 # negative steps prints all lists in reverse, because it's reading every item
 # one time per loop in reverse
@@ -31,5 +31,5 @@ array = np.array([[1,2,3,4],
 
 # what if i wanted to print out every number from the same column
 
-print(array[:, 0,])
+print(array[:, 2,])
 

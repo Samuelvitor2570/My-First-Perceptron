@@ -2,7 +2,7 @@ import numpy as np
 
 # Vetorial Scalar arithmetic
 
-array = np.array([1.9,2.20,3,4])
+array = np.array([1.999999999999999999999999999,2.20,3,4])
 
 # here i'm importing bult-in functions from np which is numpy
 
